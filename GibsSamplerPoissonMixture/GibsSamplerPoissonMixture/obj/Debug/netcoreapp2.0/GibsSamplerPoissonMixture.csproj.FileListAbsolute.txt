@@ -1,0 +1,11 @@
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\bin\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.deps.json
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\bin\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.runtimeconfig.json
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\bin\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.runtimeconfig.dev.json
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\bin\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.dll
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\obj\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.csprojResolveAssemblyReference.cache
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\obj\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\obj\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.AssemblyInfoInputs.cache
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\obj\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.AssemblyInfo.cs
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\bin\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.pdb
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\obj\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.dll
+C:\Users\K\source\repos\GibsSamplerPoissonMixture\GibsSamplerPoissonMixture\obj\Debug\netcoreapp2.0\GibsSamplerPoissonMixture.pdb
